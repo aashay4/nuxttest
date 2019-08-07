@@ -1,0 +1,22 @@
+{
+  "name": "aaaa",
+  "version": "1.0.0",
+  "description": "B2T",
+  "author": "Atom",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "nuxt": "^2.0.0",
+    "vue-qrcode-component": "^2.1.1",
+    "vue-qrcode-reader": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
